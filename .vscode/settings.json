@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": true,
+    "mochaExplorer.files": "test/**/*.{j,t}s"
+}
